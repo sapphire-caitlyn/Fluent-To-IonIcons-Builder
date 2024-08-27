@@ -12,3 +12,4 @@ C:\src\projects\FluentIoniconsBuilder\obj\Debug\net8.0\refint\FluentIoniconsBuil
 C:\src\projects\FluentIoniconsBuilder\obj\Debug\net8.0\FluentIoniconsBuilder.pdb
 C:\src\projects\FluentIoniconsBuilder\obj\Debug\net8.0\FluentIoniconsBuilder.genruntimeconfig.cache
 C:\src\projects\FluentIoniconsBuilder\obj\Debug\net8.0\ref\FluentIoniconsBuilder.dll
+C:\src\projects\FluentIoniconsBuilder\obj\Debug\net8.0\FluentIoniconsBuilder.sourcelink.json
