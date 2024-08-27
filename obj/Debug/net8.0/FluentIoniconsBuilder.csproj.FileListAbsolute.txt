@@ -1,0 +1,14 @@
+C:\src\projects\FluentIoniconsBuilder\bin\Debug\net8.0\FluentIoniconsBuilder.exe
+C:\src\projects\FluentIoniconsBuilder\bin\Debug\net8.0\FluentIoniconsBuilder.deps.json
+C:\src\projects\FluentIoniconsBuilder\bin\Debug\net8.0\FluentIoniconsBuilder.runtimeconfig.json
+C:\src\projects\FluentIoniconsBuilder\bin\Debug\net8.0\FluentIoniconsBuilder.dll
+C:\src\projects\FluentIoniconsBuilder\bin\Debug\net8.0\FluentIoniconsBuilder.pdb
+C:\src\projects\FluentIoniconsBuilder\obj\Debug\net8.0\FluentIoniconsBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\projects\FluentIoniconsBuilder\obj\Debug\net8.0\FluentIoniconsBuilder.AssemblyInfoInputs.cache
+C:\src\projects\FluentIoniconsBuilder\obj\Debug\net8.0\FluentIoniconsBuilder.AssemblyInfo.cs
+C:\src\projects\FluentIoniconsBuilder\obj\Debug\net8.0\FluentIoniconsBuilder.csproj.CoreCompileInputs.cache
+C:\src\projects\FluentIoniconsBuilder\obj\Debug\net8.0\FluentIoniconsBuilder.dll
+C:\src\projects\FluentIoniconsBuilder\obj\Debug\net8.0\refint\FluentIoniconsBuilder.dll
+C:\src\projects\FluentIoniconsBuilder\obj\Debug\net8.0\FluentIoniconsBuilder.pdb
+C:\src\projects\FluentIoniconsBuilder\obj\Debug\net8.0\FluentIoniconsBuilder.genruntimeconfig.cache
+C:\src\projects\FluentIoniconsBuilder\obj\Debug\net8.0\ref\FluentIoniconsBuilder.dll
