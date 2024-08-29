@@ -1,6 +1,6 @@
 {
   "name": "ionicons-fluent-icons",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "sideEffects": false,
   "exports": {
     "./package.json": {

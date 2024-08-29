@@ -37,10 +37,10 @@ public static class Program {
                 MemoryStream MemStream = new();
                 iconArchive.Open().CopyTo(MemStream);
                 string File = ConvertMemoryStreamToString(MemStream)
-                    .Replace("width=\"48\" height=\"48\"", "")
+                    .Replace("width=\"24\" height=\"24\"", "")
                     .Replace("fill=\"#212121\"", "fill=\"currentColor\"");
 
-                string Nome = iconArchive.Name.Replace("ic_fluent", "fluent").Replace("_48_regular", "-outline").Replace("_", "-");
+                string Nome = iconArchive.Name.Replace("ic_fluent", "fluent").Replace("_24_regular", "-outline").Replace("_", "-");
                 string FilePath = Path.Combine(OutputPath, Nome);
                 FileInfo Fi = new FileInfo(FilePath);
 
@@ -55,10 +55,10 @@ public static class Program {
                 MemoryStream MemStream = new();
                 iconArchive.Open().CopyTo(MemStream);
                 string File = ConvertMemoryStreamToString(MemStream)
-                    .Replace("width=\"48\" height=\"48\"", string.Empty)
+                    .Replace("width=\"24\" height=\"24\"", string.Empty)
                     .Replace("fill=\"none\""             , string.Empty)
                     .Replace("fill=\"#212121\""          , string.Empty);
-                string Nome = iconArchive.Name.Replace("ic_fluent", "fluent").Replace("_48_filled", string.Empty).Replace("_", "-");
+                string Nome = iconArchive.Name.Replace("ic_fluent", "fluent").Replace("_24_filled", string.Empty).Replace("_", "-");
                 string FilePath = Path.Combine(OutputPath, Nome);
                 FileInfo Fi = new FileInfo(FilePath);
 
@@ -97,8 +97,8 @@ public static class Program {
         Req.Result.Content.ReadAsStream().CopyTo(MemStream);
         ZipArchive zip = new ZipArchive(MemStream);
         List<ZipArchiveEntry> lstIcons = zip.Entries.Where(p => p.FullName.StartsWith("fluentui-system-icons-main/assets"))
-                                                    .Where(p => p.FullName.EndsWith("48_regular.svg") || 
-                                                                p.FullName.EndsWith("48_filled.svg")).ToList();
+                                                    .Where(p => p.FullName.EndsWith("24_regular.svg") || 
+                                                                p.FullName.EndsWith("24_filled.svg")).ToList();
         return lstIcons;
     }
 

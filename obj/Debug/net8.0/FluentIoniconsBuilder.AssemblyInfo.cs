@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FluentIoniconsBuilder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89f4040d19bca0622557bab2d2c13e9bd98b809e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7393ea4861b8d455c543ec61ed2cda527f6a69e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("FluentIoniconsBuilder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FluentIoniconsBuilder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
